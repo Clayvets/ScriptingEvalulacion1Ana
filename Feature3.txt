@@ -1,0 +1,7 @@
+Console.Writeline("Trabajo para ana");
+
+Metodo1();
+
+Console.Writeline("ana mala jefa")
+
+Fechadecumpleaños();
