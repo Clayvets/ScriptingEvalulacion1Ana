@@ -1,3 +1,5 @@
 Console.Writeline("Trabajo para ana");
 
 metodo1():
+
+Console.Writeline("ana mala jefa")
